@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1536459471 source:d:\source\bn\main.cpp
+	<iostream>
+	"num.h"
+
+1536462309 d:\source\bn\include\num.h
+	<iostream>
+	<vector>
+	<algorithm>
+
+1536462309 source:d:\source\bn\src\num.cpp
+	"num.h"
+
